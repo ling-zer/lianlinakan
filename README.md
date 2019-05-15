@@ -1,2 +1,2 @@
 # lianlinakan
-a computer game
+a simple computer game
